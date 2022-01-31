@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OohBen
-- 👀 I’m interested in Python, HTML, CSS, JS
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me bengoihman@gmail.com
 
