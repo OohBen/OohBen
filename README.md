@@ -1,6 +1,39 @@
 - 👋 Hi, I’m @OohBen
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
+- Looking to learn:
+
+    - [x] Java
+      - [ ] Spring
+    
+    - [ ] Web Dev
+      - [ ] CSS
+        - [ ] Tailwind, [ ] bootstrap
+      - [ ] HTML
+      - [ ] JS
+        -[ ] React and/or [ ] Angular
+        
+    - [ ] Python/AI
+      - [ ] Flask
+      - [ ] Django
+      - [ ] Tensorflow
+        
+    - [ ] C++
+    
+    - [ ] C#
+      
+    - [ ] SQL (Postgres)
+    
+    - [ ] Redis
+    
+    - [ ] MongoDB
+    
+    - [ ] NOSQL
+    
+    - [ ] Rust
+
+    - [ ] Ruby
+  
 - 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me bengoihman@gmail.com
 
