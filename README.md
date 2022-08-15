@@ -8,10 +8,11 @@
     
     - [ ] Web Dev
       - [ ] CSS
-        - [ ] Tailwind, [ ] bootstrap
+        - [ ] Bootstrap
+        - [ ] Tailwind
       - [ ] HTML
       - [ ] JS
-        - [ ] React and/or [ ] Angular
+        - [ ] React and/or  Angular
         - [ ] Discord.js
         
     - [ ] Python/AI
