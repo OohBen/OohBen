@@ -11,7 +11,8 @@
         - [ ] Tailwind, [ ] bootstrap
       - [ ] HTML
       - [ ] JS
-        -[ ] React and/or [ ] Angular
+        - [ ] React and/or [ ] Angular
+        - [ ] Discord.js
         
     - [ ] Python/AI
       - [ ] Flask
