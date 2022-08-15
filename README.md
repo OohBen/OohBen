@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OohBen
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - Looking to learn:
 
     - [x] Java
@@ -10,6 +10,7 @@
       - [ ] Flask
       - [ ] Django
       - [ ] Tensorflow
+      - [ ] Data Structures / Algorithmus  
       
     - [ ] SQL (Postgres)
 
