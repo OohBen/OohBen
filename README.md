@@ -6,6 +6,13 @@
     - [x] Java
       - [ ] Spring
     
+    - [ ] Python/AI
+      - [ ] Flask
+      - [ ] Django
+      - [ ] Tensorflow
+      
+    - [ ] SQL (Postgres)
+
     - [ ] Web Dev
       - [ ] CSS
         - [ ] Bootstrap
@@ -15,23 +22,14 @@
         - [ ] React and/or  Angular
         - [ ] Discord.js
         
-    - [ ] Python/AI
-      - [ ] Flask
-      - [ ] Django
-      - [ ] Tensorflow
-        
-    - [ ] C++
-    
     - [ ] C#
-      
-    - [ ] SQL (Postgres)
     
+    - [ ] C++
+          
     - [ ] Redis
     
     - [ ] MongoDB
-    
-    - [ ] NOSQL
-    
+        
     - [ ] Rust
 
     - [ ] Ruby
