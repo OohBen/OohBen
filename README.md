@@ -36,7 +36,7 @@
     - [ ] Ruby
   
 - 💞️ I’m looking to collaborate on nothing rn
-- 📫 How to reach me bengoihman@gmail.com
+- 📫 How to reach me
 
 <!---
 OohBen/OohBen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
