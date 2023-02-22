@@ -30,10 +30,6 @@
     - [ ] Redis
     
     - [ ] MongoDB
-        
-    - [ ] Rust
-
-    - [ ] Ruby
   
 - 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me
