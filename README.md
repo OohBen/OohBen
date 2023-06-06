@@ -6,29 +6,18 @@
     - [x] Java
       - [ ] Spring
     
-    - [ ] Python/AI
+    - [X] Python
       - [ ] Flask
       - [ ] Django
       - [ ] Tensorflow
       - [ ] Data Structures / Algorithmus  
       
     - [ ] SQL (Postgres)
-
-    - [ ] Web Dev
-      - [ ] CSS
-        - [ ] Bootstrap
-        - [ ] Tailwind
-      - [ ] HTML
-      - [ ] JS
-        - [ ] React and/or  Angular
-        - [ ] Discord.js
-        
+    
     - [ ] C#
     
     - [ ] C++
-          
-    - [ ] Redis
-    
+              
     - [ ] MongoDB
   
 - 💞️ I’m looking to collaborate on nothing rn
